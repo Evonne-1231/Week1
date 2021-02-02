@@ -1,0 +1,166 @@
+2020/06/09 21:33:39:889  [HLSP2P] [INFO][0] logRedirect modify, old:0x0, new:0x1004b58b1, level:4
+2020/06/09 21:33:39:890  [HLSP2P] MacDownloadManager version: 2.0.5
+2020/06/09 21:33:39:890  [HLSP2P] native internal version: 1.2.0.17
+2020/06/09 21:33:39:890  [HLSP2P] init download manager. cacheDir: /Users/lixiaoqian/Movies/MgtvVideos, dataDir: , pConfig: (null)
+2020/06/09 21:33:39:890  [HLSP2P] [INFO][0] key: cache_dir, value: /Users/lixiaoqian/Movies/MgtvVideos/hls
+2020/06/09 21:33:39:890  [HLSP2P] [INFO][0] video dir path: , new path: /Users/lixiaoqian/Movies/MgtvVideos/hls
+2020/06/09 21:33:39:890  [HLSP2P] [INFO][0] CacheDir: /Users/lixiaoqian/Movies/MgtvVideos/hls, avaliableSize: 18336646, MaxCacheSize: 734003200
+2020/06/09 21:33:39:890  [HLSP2P] [INFO][0] key: video_dir, value: /Users/lixiaoqian/Movies/MgtvVideos/hls
+2020/06/09 21:33:39:890  [HLSP2P] [INFO][0] video dir path: , new path: /Users/lixiaoqian/Movies/MgtvVideos/hls
+2020/06/09 21:33:39:890  [HLSP2P] [INFO][0] init vfs thread ok, path = /Users/lixiaoqian/Movies/MgtvVideos/hls
+2020/06/09 21:33:39:890  [HLSP2P] [INFO][0] FunctionChecker(0), MGP2P_Init call
+2020/06/09 21:33:39:890  [HLSP2P] [INFO][0] hls p2p version: 1.2.0.17
+2020/06/09 21:33:39:890  [HLSP2P] [INFO][0] config: ""
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] DnsThread start !!!
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] report thread run
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] server config cost time: 0
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] path: /Users/lixiaoqian/Movies/MgtvVideos/hls/.speedInfo.ini, strSpeed:  failed !!! errno: No such file or directory
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] hls p2p is init, udp local ip: 192.168.1.117, port: 1864, LastTaskAvgSpeed: 0
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] FunctionChecker(0), MGP2P_Init exit, elapse 1 ms
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] key: uuid, value: 1c947780118d4139a34aea5ce38eea6a
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] key: ticket, value: BR8TMPQBSD1IHEIMKR50
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] key: is_vip, value: 1
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] key: express_download: , value: 1
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] key: platform, value: 10
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] key: sver, value: 10.15.2
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] key: aver, value: 2020021801
+2020/06/09 21:33:39:891  [HLSP2P] [INFO][0] key: mac, value: 4b071bdb-3b36-5238-9319-1d8f70baf381-mac
+2020/06/09 21:33:39:892  [HLSP2P] [INFO][0] key: did, value: 4b071bdb-3b36-5238-9319-1d8f70baf381-mac
+2020/06/09 21:33:39:892  [HLSP2P] [INFO][0] key: trial_time, value: 500
+2020/06/09 21:33:39:892  [HLSP2P] [INFO][0] key: ua, value: imgotv-client/6.2.3
+2020/06/09 21:33:39:892  [HLSP2P] [INFO][0] key: offline_limit_speed, value: 0
+2020/06/09 21:33:39:892  [HLSP2P] [INFO][0] key: _support, value: 11111111
+2020/06/09 21:33:39:892  [HLSP2P] [INFO][0] key: buffer, value: 0
+2020/06/09 21:33:39:892  [HLSP2P] [INFO][0] key: guid, value: 900000000385826355
+2020/06/09 21:33:39:905  [HLSP2P] [INFO][0] dns ok, host = pcc.api.mgtv.com, ip num: 1, elapse = 14 ms
+2020/06/09 21:33:39:905  [HLSP2P] [INFO][0] --- ip: 123.59.23.181 ---
+2020/06/09 21:33:39:905  [HLSP2P] [INFO][0] http[888] dns return, requestID = 1, errCode = 0, ip = 123.59.23.181, elpase = 14 ms
+2020/06/09 21:33:39:905  [HLSP2P] [INFO][0] get_local_ip_stack have IPv4
+2020/06/09 21:33:39:906  [HLSP2P] [INFO][0] get_local_ip_stack IPv4 dns IP: 192.168.1.1
+2020/06/09 21:33:39:906  [HLSP2P] [INFO][0] get_local_ip_stack = 1
+2020/06/09 21:33:39:906  [HLSP2P] [INFO][0] http[888] try to connect 123.59.23.181:80 ok
+2020/06/09 21:33:39:922  [HLSP2P] [INFO][0] http[888] ts(-1) send http request ok, host = pcc.api.mgtv.com(123.59.23.181), port = 80, strTarget = /mobile/config?code=media_sdk&src=mgtv&_support=&abroad=0&appVersion=1.0.0&ch=mgtv&device=unknown&dname=&mac=unknown&osType=mac&osVersion=unknown&seqId=&ticket=, range: -1--1
+2020/06/09 21:33:39:947  [HLSP2P] [INFO][0] config: {"code":200,"data":{"media_sdk":""},"err_code":200,"err_msg":"","msg":""}
+2020/06/09 21:33:39:947  [HLSP2P] [INFO][0] resolveConfig: ""
+2020/06/09 21:33:39:947  [HLSP2P] [INFO][0] config: ""
+2020/06/09 21:33:39:948  [HLSP2P] [INFO][0] http[888] close
+2020/06/09 21:33:54:526  控制层事件回调：CBPEventFullScreen
+2020/06/09 22:47:30:742  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:47:30:898  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:47:32:700  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:47:32:904  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:48:08:339  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:48:08:512  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:57:21:123  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:57:21:347  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:57:24:045  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:57:24:267  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:58:21:404  控制层事件回调：COPOtherCloseWindow
+2020/06/09 22:59:12:400  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:12:582  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:15:913  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:16:080  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:18:346  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:18:529  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:22:814  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:22:982  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:25:763  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:25:945  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:37:819  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:38:029  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:44:348  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 22:59:44:513  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:11:063  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:11:262  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:19:119  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:19:316  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:22:446  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:22:668  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:27:184  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:27:349  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:29:247  控制层事件回调：CBPEventFullScreen
+2020/06/09 23:00:34:500  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:34:722  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:45:814  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:46:058  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:49:030  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:49:243  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:52:805  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:53:049  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:56:769  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:00:56:966  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:01:11:492  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:01:11:711  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:01:16:095  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:01:16:330  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:01:20:703  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:01:20:900  控制层事件回调：CBPEventSliderValueChanged
+2020/06/09 23:01:41:301  控制层事件回调：COPOtherCloseWindow
+2020/06/10 21:45:34:069  控制层事件回调：CBPEventFullScreen
+2020/06/10 22:16:20:025  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:16:20:190  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:16:51:649  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:16:51:854  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:17:46:309  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:17:46:438  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:00:641  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:00:836  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:02:790  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:02:915  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:10:006  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:10:146  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:11:440  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:11:603  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:15:150  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:15:298  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:19:991  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:20:164  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:21:432  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:21:566  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:52:378  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:18:52:518  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:27:14:744  控制层事件回调：CBPEventPausePlay
+2020/06/10 22:33:40:544  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:33:40:685  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:33:59:590  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:33:59:811  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:34:11:494  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:34:11:762  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:34:22:578  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:34:22:819  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:34:29:417  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:34:29:630  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:34:31:743  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:34:31:939  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:34:46:963  控制层事件回调：CBPEventPausePlay
+2020/06/10 22:34:47:728  控制层事件回调：CBPEventResumePlay
+2020/06/10 22:34:49:355  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:34:49:543  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:35:38:696  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:35:38:845  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:35:45:831  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:35:46:027  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:36:25:706  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:36:25:877  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:36:29:040  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:36:29:205  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:38:57:333  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:38:57:566  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:39:07:390  控制层事件回调：COPOtherCloseWindow
+2020/06/10 22:39:46:213  控制层事件回调：COPOtherCloseWindow
+2020/06/10 22:40:30:896  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:40:31:094  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:40:45:007  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:40:45:217  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:41:04:648  控制层事件回调：COPOtherCloseWindow
+2020/06/10 22:41:23:028  控制层事件回调：CBPEventFullScreen
+2020/06/10 22:43:25:686  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:43:25:859  控制层事件回调：CBPEventSliderValueChanged
+2020/06/10 22:50:51:560  控制层事件回调：CBPEventPausePlay
+2020/06/10 22:50:54:152  控制层事件回调：COPOtherCloseWindow
+2020/06/10 22:52:19:417  控制层事件回调：COPOtherCloseWindow
+2020/06/10 22:52:54:559  控制层事件回调：CBPEventFullScreen
+2020/06/10 22:57:43:360  控制层事件回调：COPOtherCloseWindow
+2020/06/11 19:46:29:922  [HLSP2P] [INFO][0] http[888] close
+2020/06/11 19:46:29:963  [HLSP2P] [INFO][0] report thread exit !!!
+2020/06/11 19:46:29:964  [HLSP2P] [INFO][0] DnsThread exit !!!

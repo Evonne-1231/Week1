@@ -1,0 +1,110 @@
+2020/06/03 12:19:17:805  [HLSP2P] [INFO][0] logRedirect modify, old:0x0, new:0x105a638b1, level:4
+2020/06/03 12:19:17:805  [HLSP2P] MacDownloadManager version: 2.0.5
+2020/06/03 12:19:17:805  [HLSP2P] native internal version: 1.2.0.17
+2020/06/03 12:19:17:805  [HLSP2P] init download manager. cacheDir: /Users/lixiaoqian/Movies/MgtvVideos, dataDir: , pConfig: (null)
+2020/06/03 12:19:17:806  [HLSP2P] [INFO][0] key: cache_dir, value: /Users/lixiaoqian/Movies/MgtvVideos/hls
+2020/06/03 12:19:17:806  [HLSP2P] [INFO][0] video dir path: , new path: /Users/lixiaoqian/Movies/MgtvVideos/hls
+2020/06/03 12:19:17:806  [HLSP2P] [INFO][0] CacheDir: /Users/lixiaoqian/Movies/MgtvVideos/hls, avaliableSize: 20769991, MaxCacheSize: 734003200
+2020/06/03 12:19:17:806  [HLSP2P] [INFO][0] key: video_dir, value: /Users/lixiaoqian/Movies/MgtvVideos/hls
+2020/06/03 12:19:17:806  [HLSP2P] [INFO][0] video dir path: , new path: /Users/lixiaoqian/Movies/MgtvVideos/hls
+2020/06/03 12:19:17:806  [HLSP2P] [INFO][0] init vfs thread ok, path = /Users/lixiaoqian/Movies/MgtvVideos/hls
+2020/06/03 12:19:17:806  [HLSP2P] [INFO][0] FunctionChecker(0), MGP2P_Init call
+2020/06/03 12:19:17:806  [HLSP2P] [INFO][0] hls p2p version: 1.2.0.17
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] config: ""
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] server config cost time: 0
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] path: /Users/lixiaoqian/Movies/MgtvVideos/hls/.speedInfo.ini, strSpeed:  failed !!! errno: No such file or directory
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] hls p2p is init, udp local ip: 192.168.1.117, port: 1864, LastTaskAvgSpeed: 0
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] FunctionChecker(0), MGP2P_Init exit, elapse 1 ms
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: uuid, value: 1c947780118d4139a34aea5ce38eea6a
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: ticket, value: BR8TMPQBSD1IHEIMKR50
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: is_vip, value: 1
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: express_download: , value: 1
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: platform, value: 10
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: sver, value: 10.15.2
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: aver, value: 2020021801
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: mac, value: 4b071bdb-3b36-5238-9319-1d8f70baf381-mac
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: did, value: 4b071bdb-3b36-5238-9319-1d8f70baf381-mac
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: trial_time, value: 500
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: ua, value: imgotv-client/6.2.3
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: offline_limit_speed, value: 0
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: _support, value: 11111111
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: buffer, value: 0
+2020/06/03 12:19:17:807  [HLSP2P] [INFO][0] key: guid, value: 900000000385826355
+2020/06/03 12:19:17:813  [HLSP2P] [INFO][0] DnsThread start !!!
+2020/06/03 12:19:17:817  [HLSP2P] [INFO][0] report thread run
+2020/06/03 12:19:17:831  [HLSP2P] [INFO][0] dns ok, host = pcc.api.mgtv.com, ip num: 1, elapse = 17 ms
+2020/06/03 12:19:17:831  [HLSP2P] [INFO][0] --- ip: 123.59.23.181 ---
+2020/06/03 12:19:17:831  [HLSP2P] [INFO][0] http[888] dns return, requestID = 1, errCode = 0, ip = 123.59.23.181, elpase = 17 ms
+2020/06/03 12:19:17:831  [HLSP2P] [INFO][0] get_local_ip_stack have IPv4
+2020/06/03 12:19:17:832  [HLSP2P] [INFO][0] get_local_ip_stack IPv4 dns IP: 192.168.1.1
+2020/06/03 12:19:17:832  [HLSP2P] [INFO][0] get_local_ip_stack = 1
+2020/06/03 12:19:17:832  [HLSP2P] [INFO][0] http[888] try to connect 123.59.23.181:80 ok
+2020/06/03 12:19:17:848  [HLSP2P] [INFO][0] http[888] ts(-1) send http request ok, host = pcc.api.mgtv.com(123.59.23.181), port = 80, strTarget = /mobile/config?code=media_sdk&src=mgtv&_support=&abroad=0&appVersion=1.0.0&ch=mgtv&device=unknown&dname=&mac=unknown&osType=mac&osVersion=unknown&seqId=&ticket=, range: -1--1
+2020/06/03 12:19:17:864  [HLSP2P] [INFO][0] config: {"code":200,"data":{"media_sdk":""},"err_code":200,"err_msg":"","msg":""}
+2020/06/03 12:19:17:864  [HLSP2P] [INFO][0] resolveConfig: ""
+2020/06/03 12:19:17:864  [HLSP2P] [INFO][0] config: ""
+2020/06/03 12:19:17:865  [HLSP2P] [INFO][0] http[888] close
+2020/06/03 12:19:46:902  控制层事件回调：CBPEventFullScreen
+2020/06/03 12:19:51:011  控制层事件回调：COPOtherVoice
+2020/06/03 12:19:51:614  控制层事件回调：COPOtherVoice
+2020/06/03 12:19:53:585  控制层事件回调：COPOtherVoice
+2020/06/03 12:19:54:482  控制层事件回调：COPOtherVoice
+2020/06/03 12:22:27:936  控制层事件回调：COPOtherVoice
+2020/06/03 12:30:02:257  控制层事件回调：COPOtherVoice
+2020/06/03 12:30:02:495  控制层事件回调：COPOtherVoice
+2020/06/03 12:30:02:725  控制层事件回调：COPOtherVoice
+2020/06/03 12:30:03:342  控制层事件回调：COPOtherVoice
+2020/06/03 12:30:03:614  控制层事件回调：COPOtherVoice
+2020/06/03 12:30:56:639  控制层事件回调：CBPEventBarrageStop
+2020/06/03 12:32:15:662  控制层事件回调：COPOtherVoice
+2020/06/03 12:32:15:891  控制层事件回调：COPOtherVoice
+2020/06/03 12:35:31:421  控制层事件回调：COPOtherVoice
+2020/06/03 12:36:01:870  控制层事件回调：COPOtherVoice
+2020/06/03 12:36:02:071  控制层事件回调：COPOtherVoice
+2020/06/03 12:36:02:292  控制层事件回调：COPOtherVoice
+2020/06/03 12:36:09:104  控制层事件回调：COPOtherVoice
+2020/06/03 12:43:03:359  控制层事件回调：COPOtherVoice
+2020/06/03 12:43:43:177  控制层事件回调：CBPEventBarrageStart
+2020/06/03 13:26:36:600  控制层事件回调：closeButtonClikcDown
+2020/06/03 13:26:40:512  控制层事件回调：closeButtonClikcDown
+2020/06/03 15:26:48:808  控制层事件回调：COPOtherCloseWindow
+2020/06/03 15:26:59:171  控制层事件回调：CBPEventFullScreen
+2020/06/03 15:28:13:085  控制层事件回调：CBPEventPausePlay
+2020/06/03 15:28:13:722  控制层事件回调：COPOtherCloseWindow
+2020/06/03 15:28:45:040  控制层事件回调：CBPEventFullScreen
+2020/06/03 15:29:13:312  控制层事件回调：COPOtherCloseWindow
+2020/06/03 15:29:25:837  控制层事件回调：CBPEventFullScreen
+2020/06/03 15:30:55:745  控制层事件回调：CBPEventBarrageStop
+2020/06/03 15:56:34:431  控制层事件回调：CBPEventPausePlay
+2020/06/03 16:02:38:138  控制层事件回调：CBPEventResumePlay
+2020/06/03 16:02:38:788  控制层事件回调：COPOtherCloseWindow
+2020/06/03 16:03:13:000  控制层事件回调：CBPEventPausePlay
+2020/06/03 16:03:52:268  控制层事件回调：COPOtherVoice
+2020/06/03 16:03:52:496  控制层事件回调：COPOtherVoice
+2020/06/03 16:03:52:695  控制层事件回调：COPOtherVoice
+2020/06/03 16:03:52:893  控制层事件回调：COPOtherVoice
+2020/06/03 16:03:53:078  控制层事件回调：COPOtherVoice
+2020/06/03 16:03:53:265  控制层事件回调：COPOtherVoice
+2020/06/03 16:03:53:486  控制层事件回调：COPOtherVoice
+2020/06/03 16:03:53:700  控制层事件回调：COPOtherVoice
+2020/06/03 16:03:53:924  控制层事件回调：COPOtherVoice
+2020/06/03 16:04:01:331  控制层事件回调：COPOtherVoice
+2020/06/03 16:04:04:043  控制层事件回调：COPOtherVoice
+2020/06/03 16:04:05:511  控制层事件回调：COPOtherVoice
+2020/06/03 16:04:06:333  控制层事件回调：COPOtherVoice
+2020/06/03 16:04:06:749  控制层事件回调：COPOtherVoice
+2020/06/03 16:04:07:313  控制层事件回调：COPOtherVoice
+2020/06/03 16:04:20:877  控制层事件回调：COPOtherCloseWindow
+2020/06/03 22:26:56:312  控制层事件回调：CBPEventFullScreen
+2020/06/03 22:32:03:463  控制层事件回调：CBPEventBarrageStart
+2020/06/03 23:01:17:242  控制层事件回调：COPOtherVoice
+2020/06/03 23:01:18:615  控制层事件回调：COPOtherVoice
+2020/06/03 23:13:17:496  控制层事件回调：COPOtherVoice
+2020/06/03 23:13:51:039  控制层事件回调：COPOtherVoice
+2020/06/03 23:13:51:802  控制层事件回调：COPOtherVoice
+2020/06/03 23:18:59:960  控制层事件回调：COPOtherVoice
+2020/06/03 23:29:41:449  控制层事件回调：COPOtherCloseWindow
+2020/06/03 23:32:33:552  控制层事件回调：COPOtherVoice
+2020/06/03 23:32:34:789  控制层事件回调：COPOtherVoice
+2020/06/04 10:44:55:125  控制层事件回调：CBPEventPausePlay
+2020/06/04 10:44:56:486  控制层事件回调：COPOtherCloseWindow
